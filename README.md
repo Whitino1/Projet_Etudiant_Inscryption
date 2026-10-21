@@ -222,7 +222,7 @@ Inscryption/
 
 | Baptiste Metz | Axel Siegel |
 |:---:|:---:|
-| [![GitHub](https://img.shields.io/badge/GitHub-Basyokoo-181717?style=for-the-badge&logo=github)](https://github.com/Basyokoo) | ![GitHub](https://img.shields.io/badge/GitHub-Bientôt_disponible-555555?style=for-the-badge&logo=github) |
+| [![GitHub](https://img.shields.io/badge/GitHub-Basyokoo-181717?style=for-the-badge&logo=github)](https://github.com/Basyokoo) | [![GitHub](https://img.shields.io/badge/GitHub-Whitino1-181717?style=for-the-badge&logo=github)](https://github.com/Whitino1) |
 
 </div>
 
